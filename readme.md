@@ -4,7 +4,7 @@ This tool is no longer actively maintained. I suggest using either [tsup](https:
 
 Here's an [article](https://transitivebullsh.it/javascript-dev-tools-in-2022#823feddaa1bb4edea19042852b0a5b54) I wrote in April 2022 which should help you decide between these different tools.
 
-# create-react-library
+# create-storybook-lbi
 
 > CLI for creating reusable, modern React libraries using Rollup and create-react-app.
 
